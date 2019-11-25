@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+p{
+    width: 400px;
+    word-break: normal;
+}
+dl{
+    width: 400px;
+    margin: 50px auto;
+
+}
+dl dt{
+    background:  #7cadb6;
+    border-bottom: 1px solid #ffffff;
+    cursor: pointer;
+}
+dl dd{
+    border:  1px solid #7cadb6;
+    border-top: none;
+    height: 300px;
+}
